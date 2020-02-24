@@ -1,2 +1,0 @@
-# ComponentsStudy
-Created with CodeSandbox
